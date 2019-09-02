@@ -1,0 +1,8 @@
+bb
+ID: 10
+ACCOUNT: PREMIUM
+
+14:12:30 | 28/08/2019  +102.45 has been transferred from Dev_Khanna's account
+14:13:24 | 28/08/2019  -45.0 has been transferred to Aaryan_Sanghavi's account
+14:13:47 | 28/08/2019  +10000.0 has been deposited.
+=10057.45
